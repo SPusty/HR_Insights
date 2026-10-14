@@ -39,7 +39,7 @@ The script checks:
 
 - Number of rows and columns in each table
 - Sample rows and column data types
-- Duplicate rows and missing value check
+- Duplicate and missing value check
 - Salary summary statistics and salary by department
 - Performance summary by department
 - Salary/performance correlation
