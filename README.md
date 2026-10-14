@@ -1,4 +1,4 @@
-# HRInsight
+# HR_Insights
 
 HRInsight is employee data analysis project, for a small scale organisation, built with Python and MySQL. 
 It explores salary patterns, department-level performance, and the relationship between salary and performance, then saves the charts.
