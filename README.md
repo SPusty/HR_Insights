@@ -46,6 +46,6 @@ The script checks:
 
 ## Important notes
 
-- ** Privacy:** Use synthetic or anonymised data in a public repository. Do not upload real employee names, salaries, performance records, bonus information, or database credentials.
+- Used synthetic data for this project.
 - Ensure the database and expected tables exist. 
 - Keep `.env` private, it is excluded by `.gitignore`.
